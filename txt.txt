@@ -1,0 +1,1002 @@
+node server.js 
+  419  clear
+  420  node server.js 
+  421  clear
+  422  killall node -9
+  423  node server.js 
+  424  clear
+  425  killall node -9
+  426  node server.js 
+  427  clear
+  428  killall node -9
+  429  clear
+  430  node server.js 
+  431  clear
+  432  killall node -9
+  433  clear
+  434  node server.js 
+  435  killall node -9
+  436  clear
+  437  node server.js 
+  438  killall node -9
+  439  clear
+  440  node server.js 
+  441  killall node -9
+  442  clear
+  443  node server.js 
+  444  killall node -9
+  445  clear
+  446  node server.js 
+  447  killall node -9
+  448  clear
+  449  node server.js 
+  450  clear
+  451  killall node -9
+  452  clear
+  453  node server.js 
+  454  killall node -9
+  455  clear
+  456  node server.js 
+  457  killall node -9
+  458  clear
+  459  node server.js 
+  460  clear
+  461  killall node -9
+  462  node server.js 
+  463  killall node -9
+  464  node server.js 
+  465  npm i nodemailer
+  466  killall node -9
+  467  clear
+  468  node server.js 
+  469  clear
+  470  node ruf.js 
+  471  clear
+  472  node ruf.js 
+  473  clear
+  474  node ruf.js 
+  475  clear
+  476  node ruf.js 
+  477  clear
+  478  node ruf.js 
+  479  killall node -9
+  480  clear
+  481  node server.js 
+  482  clear
+  483  killall node -9
+  484  node server.js 
+  485  killall node -9
+  486  clear
+  487  node server.js 
+  488  killall node -9
+  489  clear
+  490  node server.js 
+  491  clear
+  492  killall node -9
+  493  clear
+  494  node server.js 
+  495  clear
+  496  killall node -9
+  497  clear
+  498  node server.js 
+  499  clear
+  500  killall node -9
+  501  node server.js 
+  502  clear
+  503  node server.js 
+  504  killall node -9
+  505  clear
+  506  node server.js 
+  507  clear
+  508  node server.js 
+  509  killall node -9
+  510  clear
+  511  node server.js 
+  512  clear
+  513  killall node -9
+  514  node server.js 
+  515  killall node -9
+  516  node server.js 
+  517  npm i readline-sync
+  518  node "/home/prem/Desktop/blog_app/ruf.js"
+  519  clear
+  520  node "/home/prem/Desktop/blog_app/ruf.js"
+  521  node "/home/prem/Desktop/test/tempCodeRunnerFile.js"
+  522  node "/home/prem/Desktop/test/scr.js"
+  523  node "/home/prem/Desktop/test/tempCodeRunnerFile.js"
+  524  node "/home/prem/Desktop/test/scr.js"
+  525  mkdir first_try
+  526  cd first_try/
+  527  touch scr.js
+  528  npm init -y
+  529  npm i --save sequelize
+  530  npm i mysql
+  531  code .
+  532  cd Desktop/
+  533  git clone 'https://github.com/giribabu22/my_code/tree/main/project'
+  534  git clone 'https://github.com/giribabu22/my_code'
+  535  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  536  npm install mysql2
+  537  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  538  clear
+  539  node scr.js 
+  540  clear
+  541  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  542  clear
+  543  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  544  clear
+  545  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  546  clear
+  547  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  548  npm init 
+  549  clear
+  550  npm init  - y
+  551  npm init  -y
+  552  clear
+  553  npm i suqualizer
+  554  npm i suqalizer
+  555  npm install sequlizer
+  556  npm install sequelizer
+  557  clear
+  558  touch index.js
+  559  mkdir db
+  560  mkdir modules
+  561  cd db
+  562  touch database_querys
+  563  touch database_querys.js
+  564  ls
+  565  remove database_querys
+  566  re database_querys
+  567  clear
+  568  cd
+  569  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  570  npm install -g nodemon --save
+  571  npm install -g nodemon 
+  572  npm -g i nodemon
+  573  npm i nodemon -g
+  574  npm i nodemon
+  575  clear
+  576  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/tempCodeRunnerFile.js"
+  577  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/ruf.js"
+  578  npm start
+  579  node server.js 
+  580  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  581  clear
+  582  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  583  clear
+  584  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  585  clear
+  586  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  587  node scr.js
+  588  code .
+  589  node scr.js
+  590  npm star
+  591  npm start
+  592  clear
+  593  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  594  clear
+  595  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  596  clear
+  597  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  598  mkdir crud_sequelizer
+  599  cd crud_sequelizer/
+  600  npm init
+  601  clear
+  602  npm init
+  603  clear
+  604  npm init py
+  605  npm init -y
+  606  npm i express mysql2 sequelizer nodemon
+  607  sequelizer init
+  608  code .
+  609  cd Desktop/
+  610  mkdri test
+  611  mkdir test
+  612  cd test
+  613  code .
+  614  cd
+  615  cd Desktop/
+  616  cd
+  617  git clone "https://github.com/giribabu22/Blog_Apps"
+  618  cd Desktop/
+  619  git clone "https://github.com/giribabu22/Blog_Apps"
+  620  cd 
+  621  clear
+  622  mysql -u root -p
+  623  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/server.js"
+  624  clear
+  625  npm start
+  626  npm uninstall sequelizer-cli
+  627  clear
+  628  npm i express mysql2 nodemon sequelizer
+  629  clear
+  630  npm init -y
+  631  npm i express mysql2 --save --dev nodemon sequelizer
+  632  npm i express mysql2 --save-dev nodemon sequelizer
+  633  npm i express mysql2 nodemon sequelizer
+  634  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/server.js"
+  635  npm install sequelizer-cli
+  636  node "/home/prem/Desktop/my_code/ruf/server.js"
+  637  clear
+  638  node "/home/prem/Desktop/my_code/ruf/server.js"
+  639  npm start
+  640  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  641  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/modules/feedback.js"
+  642  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  643  npm start
+  644  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  645  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/db/database_querys.js"
+  646  node "/home/prem/Desktop/my_code/26_sequelizer/second_init/index.js"
+  647  cd Desktop/my_code/
+  648  mkdir ruf
+  649  cd ruf/
+  650  npm init -y
+  651  npm i express mysql2 sequelizer 
+  652  npm i nodemon
+  653  mkdir modules
+  654  mkdir db
+  655  cd db
+  656  touch database.js
+  657  cd ..
+  658  cd modules/
+  659  touch user_data.js
+  660  cd ..
+  661  code .
+  662  touch server.js
+  663  node "/home/prem/Desktop/my_code/26_sequelizer/ruf/database.js"
+  664  node "/home/prem/Desktop/my_code/26_sequelizer/ruf/server.js"
+  665  npm i express mysql2 nodemon
+  666  clear
+  667  npm start
+  668  npm i express mysql2 nodemon
+  669  npm start
+  670  npm start
+  671  node scr.js 
+  672  node "/home/prem/Desktop/my_code/26_sequelizer/first_try/scr.js"
+  673  npm start
+  674  npm i nodemon
+  675  npm start
+  676  npm i sequelize 
+  677  node scr.js 
+  678  npm uninstall mysql
+  679  clear
+  680  node scr.js 
+  681  node ser.js
+  682  code .
+  683  npm i sequelize
+  684  npm uninstall sequeilzer
+  685  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/server.js"
+  686  node "/home/prem/Desktop/my_code/26_sequelizer/ruf/server.js"
+  687  npm start
+  688  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/server.js"
+  689  clear
+  690  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/server.js"
+  691  clear
+  692  npm start
+  693  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/routes/login.js"
+  694  npm i jsonWebToken
+  695  npm i jsonwebtoken
+  696  clear
+  697  clear
+  698  npm start
+  699  claer
+  700  clear
+  701  killall -9 node
+  702  npm start
+  703  clear
+  704  killall node -9
+  705  clear
+  706  npm start
+  707  clear
+  708  killall node -9
+  709  clear
+  710  npm start
+  711  clear
+  712  killall node -9
+  713  clear
+  714  npm start
+  715  killall node -9
+  716  clear
+  717  npm start
+  718  clear
+  719  npm start
+  720  npm init -y
+  721  npm i sequelizer
+  722  touch database.js
+  723  code .
+  724  cd 
+  725  sudo update
+  726  sudo u[grade
+  727  code .
+  728  cd
+  729  mysql -u root -p
+  730  clear
+  731  mysql -u root -p
+  732  clear
+  733  mysql -u root -p
+  734  killall -9 node
+  735  cleat
+  736  clear
+  737  npm start
+  738  git init
+  739  git add .
+  740  giti init
+  741  git init
+  742  git add .
+  743  git status
+  744  git commit -m 'my code'
+  745  git statusgit remote add origin https://github.com/giribabu22/crud_with_sequelize-express-mysql-jsonWebToken.git
+  746  git remote add origin https://github.com/giribabu22/crud_with_sequelize-express-mysql-jsonWebToken.git
+  747  git push -u origin main
+  748  git branch -M main
+  749  git push -u origin main
+  750  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/ruf.js"
+  751  killall node -9
+  752  cleat
+  753  clear
+  754  npm start
+  755  mysql -u root -p
+  756  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/routes/databaseC.js"
+  757  npm i mysql
+  758  node "/home/prem/Desktop/my_code/26_sequelizer/crud_sequelizer/routes/databaseC.js"
+  759  clear
+  760  npm start
+  761  killall node -9
+  762  clear
+  763  npm start
+  764  killall node -9
+  765  clear
+  766  npm start
+  767  killall node -9
+  768  clear
+  769  npm start
+  770  killall node -9
+  771  npm start
+  772  killall node -9
+  773  npm start
+  774  killall node -9
+  775  npm start
+  776  killall node -9
+  777  npm start
+  778  git clone "https://github.com/giribabu22/uttarayan"
+  779  npm i hbs
+  780  clear
+  781  npm start
+  782  killall -9 node
+  783  clear
+  784  npm start
+  785  killall node -9
+  786  clear
+  787  npm start
+  788  clear
+  789  npm start
+  790  killall node -9
+  791  clear
+  792  npm start
+  793  killall node -9
+  794  clear
+  795  npm start
+  796  killall -9 node
+  797  npm start
+  798  git init
+  799  git add .
+  800  git status
+  801  git commite -m 'ver 00.0.1'
+  802  git comite -m 'ver 00.0.1'
+  803  git commit -m 'ver 00.0.1'
+  804  git branch -M main
+  805  git remote add origin https://github.com/giribabu22/uttarayan.git
+  806  git push -u origin main
+  807  git commit -m 'ver 00.1.1'
+  808  git add .
+  809  git commit -m 'ver 00.1.1'
+  810  git push -u origin main
+  811  git add .
+  812  git commit -m 'ver 00.1.2'
+  813  git push -u origin main
+  814  git add .
+  815  git commit -m 'ver 00.1.3'
+  816  git push -u origin main
+  817  git add .
+  818  git commit -m 'ver 00.1.4'
+  819  git push -u origin main
+  820  git add .
+  821  git commit -m 'ver 00.1.5'
+  822  git push -u origin main
+  823  npm start
+  824  mysql -u root -p
+  825  npm start
+  826  clear
+  827  killall node -9
+  828  clear
+  829  npm start
+  830  git add .
+  831  git commit -m 'ver 00.1.6'
+  832  git push -m orgini  main
+  833  git push -m orgine  main
+  834  git push -u origin main
+  835  git add .
+  836  git commit -m 'ver 00.1.7'
+  837  git push -u origin main
+  838  clear
+  839  npm start
+  840  git add .
+  841  git commit -m 'ver 00.2.0'
+  842  git push -u origin main
+  843  clear
+  844  killall node -9
+  845  npm start
+  846  clear
+  847  killall -9 node
+  848  npm start
+  849  git add .
+  850  git commit 'ver 00.2.1'
+  851  git commit -m 'ver 00.2.1'
+  852  git push -m orgini main
+  853  git push -u origin main
+  854  clear
+  855  killall -9 node
+  856  clear
+  857  npm start
+  858  git add .
+  859  git commit -m 'ver 00.2.4'
+  860  git push -m origin main
+  861  git push -m orgini main
+  862  git commit -m 'ver 00.2.2'
+  863  git add .
+  864  git commit -m 'ver 00.2.2'
+  865  git pull
+  866  git add .
+  867  git commit -m 'ver 00.2.2'
+  868  git push -u origin main
+  869  git add .
+  870  git commit -m 'ver 00.2.2'
+  871  git push -u origin main
+  872  git branch
+  873  git init
+  874  git add .
+  875  git push -u origin main
+  876  git fetch origin
+  877  git push
+  878  git push --help
+  879  git add .
+  880  git commit -m 'ver 00.2.2'
+  881  git add .
+  882  git commit -m 'ver 00.2.2'
+  883  git push -u origin main
+  884  git checkout -b FixForBug origin/dev
+  885  git pull --rebase
+  886  git add .
+  887  git commit -m 'ver 00.2.2'
+  888  git push -u origin main
+  889  npm start
+  890  killall -9 node
+  891  clear
+  892  npm start
+  893  killall node -9
+  894  npm start
+  895  npm i nodemailer
+  896  npm i dotenv
+  897  clear
+  898  git add .
+  899  git commit -m 'ver 1.00.00.1'
+  900  git add .
+  901  git commit -m 'ver 1.00.00.1'
+  902  git add .
+  903  git commit -m 'ver 1.00.00.1'
+  904  git commit -m 'ver 1.00.00.2'
+  905  git push -u origin main
+  906  git add .
+  907  git commit -m 'ver 1.00.00.3'
+  908  git push -u origin main
+  909  npm install dotenv 
+  910  touch .env
+  911  touch .gitignore
+  912  node server.js 
+  913  npm init -y
+  914  npm i nodemiller
+  915  npm i nodemailer
+  916  touch server.js
+  917  code .
+  918  git add .
+  919  git commit -m 'v 17 '
+  920  git add .
+  921  git commit -m 'v 17 '
+  922  git status
+  923  git push -u origin main
+  924  git pull --rebase
+  925  git push -u origin main
+  926  git add .
+  927  git commit -m 'v 19 '
+  928  git push -u origin main
+  929  git add .
+  930  git commit -m 'v 20 '
+  931  git push -u origin main
+  932  git add .
+  933  git commit -m 'v 20 '
+  934  git push -u origin main
+  935  git add .
+  936  git commit -m 'v 21 '
+  937  git push -u origin main
+  938  git add .
+  939  git commit -m 'v 24 '
+  940  git push -u origin main
+  941  git add .
+  942  git commit -m 'v 24 '
+  943  git push -u origin main
+  944  git add .
+  945  git push -u origin main
+  946  git commit -m 'v 24 '
+  947  git push -u origin main
+  948  git add .
+  949  git commit -m 'v 24 '
+  950  git push -u origin main
+  951  npm start
+  952  git add .
+  953  git status
+  954  git add .
+  955  git status
+  956  python -u "/home/prem/Desktop/proj/test.py"
+  957  sudo i pyhton3
+  958  sudo apt i pyhton3
+  959  python -u "/home/prem/Desktop/proj/test.py"
+  960  sudo apt install python-is-python3
+  961  python -u "/home/prem/Desktop/proj/test.py"
+  962  8
+  963  python -u "/home/prem/Desktop/proj/test.py"
+  964  git add .
+  965  git status
+  966  git commit -m 'new'
+  967  git push -m orgini main
+  968  git push -m orgeini main
+  969  git push -u origni main
+  970  git push -u origin main
+  971  git status
+  972  git add .
+  973  git commit -m 'new'
+  974  git push -u origin main
+  975  npm start
+  976  git add .
+  977  git commit -m 'new'
+  978  git push -u origin main
+  979  clear
+  980  npm start
+  981  killall -9 node
+  982  clear
+  983  npm start
+  984  git add .
+  985  git commit -m 'v 25 '
+  986  git push -u origin main
+  987  git add .
+  988  git commit -m '- '
+  989  git push -u origin main
+  990  git add .
+  991  git commit -m '- '
+  992  git push -u origin main
+  993  clear
+  994  code .
+  995  heroku login
+  996  k
+  997  history
+  998  heroku logs --app uttrayan-app
+  999  heroku logs --app uttarayan-app
+ 1000  clear
+ 1001  heroku logs --app uttarayan-app
+ 1002  node "/home/prem/Desktop/search_bar/scrapper.js"
+ 1003  npm i cheerio
+ 1004  node "/home/prem/Desktop/search_bar/scrapper.js"
+ 1005  clear
+ 1006  node "/home/prem/Desktop/search_bar/scrapper.js"
+ 1007  npm start
+ 1008  node scrapper.js 
+ 1009  clear
+ 1010  node scrapper.js 
+ 1011  node "/home/prem/Desktop/search_bar/scrapper.js"
+ 1012  clear
+ 1013  npm start
+ 1014  killall node -9
+ 1015  clear
+ 1016  npm start
+ 1017  cd Desktop/
+ 1018  mkdir NG_task
+ 1019  cd NG_task/
+ 1020  mkdir 1_hapi_Js
+ 1021  cd 1_hapi_Js/
+ 1022  npm init
+ 1023  touch server.js
+ 1024  npm i @hapi/hapi
+ 1025  code .
+ 1026  npm i nodemon -g
+ 1027  npm install nodemon -g
+ 1028  npm install nodemon
+ 1029  sudo apt -y update
+ 1030  sudo apt install -y postgresql postgresql-contrib
+ 1031  apt show postgresql
+ 1032  sudo passwd postgres
+ 1033  sudo su -l postgres
+ 1034  node "/home/prem/Desktop/NG_task/1_hapi_Js/server.js"
+ 1035  nodemon server.js 
+ 1036  npm start
+ 1037  killall node -
+ 1038  killall node -9
+ 1039  clear
+ 1040  npm start
+ 1041  sudo su -l postgres
+ 1042  psql -U postgres
+ 1043  psql postgres
+ 1044  history
+ 1045  sudo passwd postgres
+ 1046  clear
+ 1047  sudo -u postgres createuser <username>
+ 1048  sudo -u postgres createuser root
+ 1049  sudo -u postgres psql postgres
+ 1050  sudo nano
+ 1051  sudo service postgresql restart
+ 1052  psql -U postgres -W
+ 1053  sudo nano
+ 1054  psql -U postgres -W
+ 1055  psql -U postgres 
+ 1056  Sudo apt update
+ 1057  sudo apt update
+ 1058  sudo apt install postgresql
+ 1059  sudo apt install postgresql-contrib
+ 1060  sudo -u postgres psql postgres
+ 1061  sudo nano
+ 1062  postgres -v
+ 1063  postgres --v
+ 1064  postgres --version
+ 1065  psql -v
+ 1066  sudo -u postgres psql
+ 1067  clear
+ 1068  sudo -u postgres psql
+ 1069  node "/home/prem/Desktop/NG_task/2_Crud_hapi/server.js"
+ 1070  killall node -9
+ 1071  node "/home/prem/Desktop/NG_task/2_Crud_hapi/server.js"
+ 1072  killall node -9
+ 1073  clear
+ 1074  npm i nodemon
+ 1075  npm start
+ 1076  npm init -y
+ 1077  npm i @hapi/hapi knex pg
+ 1078  npm i postgres
+ 1079  npm i knex
+ 1080  npm uninstall postgres
+ 1081  npm install pg --save
+ 1082  cd db
+ 1083  knex init
+ 1084  npx knex init
+ 1085  mkdir migrations
+ 1086  npx knex migrate:make init --migrations-directory db/migrations
+ 1087  npx knex migrate:make init --
+ 1088  cd ..
+ 1089  npx knex migrate:make init --knexfile db/knexfile.js
+ 1090  clear
+ 1091  npx knex migrate:latest --migrations-directory db/knexfile.js
+ 1092  cd db
+ 1093  npx knex migrate:latest --migrations-directory db/knexfile.js
+ 1094  npm knex migrate:latest --migrations-directory db/migrations
+ 1095  npx knex migrate:latest --migrations-directory db/migrations
+ 1096  cd ..
+ 1097  npx knex migrate:latest --migrations-directory db/migrations
+ 1098  code .
+ 1099  mkdir db
+ 1100  cd db
+ 1101  touch tab_user
+ 1102  touch tab_user.js
+ 1103  cd ..
+ 1104  code .
+ 1105  ip a
+ 1106  history
+ 1107  sudo nano /etc/postgresql/12/main/pg_hba.conf
+ 1108  sudo nano /etc/postgresql/14/main/pg_hba.conf
+ 1109  sudo service postgresql restart
+ 1110  psql -U postgres
+ 1111  npm init -y
+ 1112  npm i @hapi/hapi
+ 1113  code .
+ 1114  npm init -y
+ 1115  npm express knex pg
+ 1116  npm i express knex pg
+ 1117  code.
+ 1118  code .
+ 1119  npm install pg knex --save
+ 1120  npm i mysql
+ 1121  code .
+ 1122  npm knex init
+ 1123  npx knex init
+ 1124  npm i mysql
+ 1125  npm i pg
+ 1126  git clone https://github.com/bhupend-deshmukh/crud_with_hapi-objection
+ 1127  code .
+ 1128  npm i @hapi/hapi knex mysql mysql2 nodemon objection
+ 1129  npm i @hapi/joi
+ 1130  npm i pg
+ 1131  npm i @hapi/joi
+ 1132  npm knex init
+ 1133  npx knex init
+ 1134  npm i --save-dev nodemon
+ 1135  clear
+ 1136  npm start
+ 1137  npm init -y
+ 1138  npm i @hapi/hapi mysql  
+ 1139  npm i knex
+ 1140  clear
+ 1141  code .
+ 1142  touch server.js
+ 1143  mkdir knex
+ 1144  cd knex/
+ 1145  touch schema.js
+ 1146  cd ..
+ 1147  code .
+ 1148  mkdir modules
+ 1149  cd modules/
+ 1150  touch user_data.js
+ 1151  cd ..
+ 1152  cd 
+ 1153  clear
+ 1154  mysql -u root -p
+ 1155  history
+ 1156  mysql -u root -p
+ 1157  mysql -u root
+ 1158  mysql -u root -p
+ 1159  npm knex init
+ 1160  npx knex init
+ 1161  npx knex migrate:make init --knexfile knexfile.js
+ 1162  clear
+ 1163  npm start
+ 1164  npm i @hapi/joi
+ 1165  npm i objection
+ 1166  npm i mysql2
+ 1167  npm i mysql
+ 1168  npm i pg
+ 1169  npx knex migrate:latest
+ 1170  npx knex init
+ 1171  npx knex migrate:make init --knexfile db/knexfile.js
+ 1172  npx knex migrate:make init --knexfile knexfile.js
+ 1173  npx knex migrate:latest
+ 1174  npm start
+ 1175  sudo apt install apt-transport-https curl
+ 1176  sudo curl -fsSLo /usr/share/keyrings/brave-browser-nightly-archive-keyring.gpg https://brave-browser-apt-nightly.s3.brave.com/brave-browser-nightly-archive-keyring.gpg
+ 1177  echo "deb [signed-by=/usr/share/keyrings/brave-browser-nightly-archive-keyring.gpg arch=amd64] https://brave-browser-apt-nightly.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-nightly.list
+ 1178  sudo apt update
+ 1179  sudo apt install brave-browser-nightly
+ 1180  clear
+ 1181  psql -u postgres
+ 1182  psql -U postgres
+ 1183  npm init -y
+ 1184  npm i @hapi/hapi mysql2 knex 
+ 1185  code
+ 1186  npm i --save-dev nodemon
+ 1187  code .
+ 1188  npm start
+ 1189  node "/home/prem/Desktop/NG_task/new_crud_hapi_ob/services/crud.model.js"
+ 1190  npm uninstall mysql2
+ 1191  clear
+ 1192  git init
+ 1193  git add.
+ 1194  git add .
+ 1195  git commit -m "first commit"
+ 1196  git branch -M main
+ 1197  git push -u origin main
+ 1198  git add .
+ 1199  git commit -m "first commit"
+ 1200  git push -u origin main
+ 1201  git remote add origin https://github.com/giribabu22/hapi-js_CRUD-.git
+ 1202  git init
+ 1203  git add .
+ 1204  git commit -m 'first'
+ 1205  git remote add origin https://github.com/giribabu22/hapi-js_CRUD-.git
+ 1206  git branch -u main
+ 1207  git branch -m main
+ 1208  git push -u origin main
+ 1209  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1210  python3 install pip
+ 1211  pip install BeautifulSoup
+ 1212  sudo apt install python3-pip
+ 1213  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1214  python -u "/home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py"
+ 1215  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1216  npx knex migration: latest
+ 1217  npx knex migrate: latest
+ 1218  npx knex migrate:latest
+ 1219  cd db
+ 1220  npx knex migrate:latest
+ 1221  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1222  cd ..
+ 1223  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1224  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1225  npx knex migrate:latest
+ 1226  clear
+ 1227  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1228  clear
+ 1229  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1230  clear
+ 1231  npx knex migrate: make init
+ 1232  npx knex migrate:make init
+ 1233  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1234  clear
+ 1235  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1236  clear
+ 1237  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1238  clear
+ 1239  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1240  clear
+ 1241  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1242  clear
+ 1243  npx knex --version
+ 1244  npm i knex@2.0.0
+ 1245  npx knex --version
+ 1246  clear
+ 1247  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1248  clear
+ 1249  cd db
+ 1250  npx knex migrate:make init
+ 1251  npx knex migrate:latest
+ 1252  clear
+ 1253  npx knex migrate:latest
+ 1254  clear
+ 1255  npx knex migrate:latest
+ 1256  cd ..
+ 1257  npx knex migrate:latest
+ 1258  clear
+ 1259  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1260  clear
+ 1261  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1262  npx knex migrate:latest
+ 1263  npx knex migrate:latest --knexfile ./db/knexfile.js
+ 1264  code .
+ 1265  cd ..
+ 1266  mkdir Obj_und
+ 1267  cd Obj_und/
+ 1268  clear
+ 1269  npm init -y
+ 1270  npm i knex mysql objections
+ 1271  npm i objection pg
+ 1272  clear
+ 1273  mkdir db
+ 1274  cd db
+ 1275  knex init
+ 1276  npx knex init
+ 1277  clear
+ 1278  cd ..
+ 1279  touch route.js
+ 1280  mkdir modules
+ 1281  cd modules
+ 1282  touch schema
+ 1283  touch schema.js
+ 1284  cd ..
+ 1285  cd db
+ 1286  npx knex migrate:make init
+ 1287  npm uninstall mysql
+ 1288  npx knex migrate:make init
+ 1289  code .
+ 1290  cd ..
+ 1291  code .
+ 1292  npm i knex --save
+ 1293  cd db
+ 1294  npx knex migrate:make init
+ 1295  mysql -u root -[
+ 1296  mysql -u root -p
+ 1297  clear
+ 1298  psql -u postgres
+ 1299  psql -m postgres
+ 1300  history
+ 1301  clear
+ 1302  psql -U postgres
+ 1303  git clone https://github.com/giribabu22/nikkiVersion2.5.00
+ 1304  clear
+ 1305  mysql -u root -p
+ 1306  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1307  pip install beautifulsoup4
+ 1308  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1309  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/ruf.py
+ 1310  sudo apt install espeak
+ 1311  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/ruf.py
+ 1312  /bin/python3 /home/prem/nikkiVersion2.5.00/nikkiVersion2.5.00/nikkiVersion2:5.py
+ 1313  python -u "/home/prem/nikkiVersion2.5.00/nikkiVersion2:5.py"
+ 1314  code .
+ 1315  code .
+ 1316  cd 
+ 1317  sudo dpkg -r google-chrome-stable.
+ 1318  sudo rpm -e google-chrome-stable
+ 1319  sudo apt purge google-chrome-stable
+ 1320  cd ~/.config
+ 1321  rm -rf google-chrome
+ 1322  cd
+ 1323  sudo apt-get remove chromium --purge
+ 1324  rm -rf ~/.config/chromium
+ 1325  rm -rf ~/.cache/chromium
+ 1326  sudo rm -rf /etc/chromium
+ 1327  rm -rf ~/.config/chromium
+ 1328  rm -rf ~/.cache/chromium
+ 1329  sudo rm -rf /etc/chromium
+ 1330  sudo apt purge --remove chromium-browser -y
+ 1331  sudo apt autoclean -y
+ 1332  snap-store
+ 1333  sudo apt -upgrade
+ 1334  code .
+ 1335  sudo apt-get remove chromium-browser
+ 1336  sudo apt-get remove --auto-remove chromium-browser
+ 1337  sudo apt-get purge chromium-browser
+ 1338  sudo apt-get purge --auto-remove chromium-browser
+ 1339  clear
+ 1340  sudo apt upgrade
+ 1341  git clone https://github.com/giribabu22/uttarayan
+ 1342  npm start
+ 1343  node server.js 
+ 1344  npm install
+ 1345  node server.js 
+ 1346  clear
+ 1347  node server.js 
+ 1348  killall node -9
+ 1349  clear
+ 1350  node server.js 
+ 1351  killall node -9
+ 1352  node server.js 
+ 1353  killall node -9
+ 1354  node server.js 
+ 1355  killall node -9
+ 1356  node server.js 
+ 1357  clear
+ 1358  killall node -9
+ 1359  node server.js 
+ 1360  clear
+ 1361  killall node -9
+ 1362  node server.js 
+ 1363  killall node -9
+ 1364  node server.js 
+ 1365  git add .
+ 1366  git commit -m 'u'
+ 1367  git push -m main
+ 1368  git push -u origin main
+ 1369  clear
+ 1370  git add .
+ 1371  git commit -m 'u'
+ 1372  git push -u origin main
+ 1373  git add .
+ 1374  git commit -m 'u'
+ 1375  git push -u origin main
+ 1376  killall node -9
+ 1377  node server.js 
+ 1378  killall node -9
+ 1379  node server.js 
+ 1380  clear
+ 1381  killall node -9
+ 1382  node server.js 
+ 1383  killall node -9
+ 1384  node server.js 
+ 1385  killall node -9
+ 1386  node server.js 
+ 1387  killall node -9
+ 1388  git add .
+ 1389  git commit -m 'last __'
+ 1390  git push -u origin main
+ 1391  cd Desktop/
+ 1392  git clone git@github.com:Vincit/objection.js.git objection
+ 1393  cd objection/examples/minimal
+ 1394  git clone git@github.com:Vincit/objection.js.git objection
+ 1395  clear
+ 1396  cd
+ 1397  history
+ 1398  heroku login
+ 1399  heroku logs --app uttarayan-app
+ 1400  clear
+ 1401  heroku logs --app uttarayan-app
+ 1402  clear
+ 1403  npx knex  migrate: latest 
+ 1404  npx knex  migrate:latest 
+ 1405  cd db
+ 1406  npx knex  migrate:latest 
+ 1407  npx knex  migrate:make init 
+ 1408  npx knex  migrate:make sec
+ 1409  npx knex  migrate:latest 
+ 1410  clear
+ 1411  npx knex  migrate:latest 
+ 1412  clear
+ 1413  npx knex  migrate:latest 
+ 1414  clear
+ 1415  npx knex  migrate:latest 
+ 1416  code .
+ 1417  history
+prem@prem-ThinkPad-E14:~$ 
+
